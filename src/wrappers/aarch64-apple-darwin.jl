@@ -10,7 +10,7 @@ function __init__()
     JLLWrappers.@generate_init_header(Zlib_jll, Zstd_jll, Lz4_jll)
     JLLWrappers.@init_library_product(
         libblosc2,
-        "lib/libblosc2.2.11.3.dylib",
+        "lib/libblosc2.2.12.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
