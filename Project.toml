@@ -1,6 +1,6 @@
 name = "Blosc2_jll"
 uuid = "d43303dc-dd0e-56c6-b0a8-331f4c8c9bfb"
-version = "2.13.1+0"
+version = "2.13.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
