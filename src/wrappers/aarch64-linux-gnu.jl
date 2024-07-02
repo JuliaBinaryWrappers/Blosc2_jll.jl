@@ -5,7 +5,7 @@ using Lz4_jll
 using Zlib_jll
 using Zstd_jll
 JLLWrappers.@generate_wrapper_header("Blosc2")
-JLLWrappers.@declare_library_product(libblosc2, "libblosc2.so.2")
+JLLWrappers.@declare_library_product(libblosc2, "libblosc2.so.4")
 function __init__()
     JLLWrappers.@generate_init_header(Lz4_jll, Zlib_jll, Zstd_jll)
     JLLWrappers.@init_library_product(
