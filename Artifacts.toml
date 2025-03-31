@@ -1,160 +1,160 @@
 [[Blosc2]]
 arch = "aarch64"
-git-tree-sha1 = "3928cd4ac2c19de4e10d887c8be768f049ff25f8"
+git-tree-sha1 = "8085f1563407d977d9079017627c331681548d06"
 os = "macos"
 
     [[Blosc2.download]]
-    sha256 = "efaa1757a7d0e71d1ca5a40537605ec06457275cf5492a806e2ad181f2551277"
-    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.0+0/Blosc2.v201.1700.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "d128bce4c2c48b7023ef49915ba47861115a70306391195fd3df325a6dcfe990"
+    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.100+0/Blosc2.v201.1700.100.aarch64-apple-darwin.tar.gz"
 [[Blosc2]]
 arch = "aarch64"
-git-tree-sha1 = "fe1276ea39beaf97a50dd5e64f4628454b54f821"
+git-tree-sha1 = "7da2b22c6e21fbd50e69a63a2edf24486ce16039"
 libc = "glibc"
 os = "linux"
 
     [[Blosc2.download]]
-    sha256 = "c7de9689e3b36fe3bf4e3ef21fb4c5c58a8b2f51444c8811de15557297d7c486"
-    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.0+0/Blosc2.v201.1700.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "bf5b79ff1a22573ff7fbcab5208eab04015d7c0daa77f55f98a779dcb6028202"
+    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.100+0/Blosc2.v201.1700.100.aarch64-linux-gnu.tar.gz"
 [[Blosc2]]
 arch = "aarch64"
-git-tree-sha1 = "aa973d7ef7a9a7fee9e5fb2954aec9b62a6077eb"
+git-tree-sha1 = "3db812d201a7cdc1d96b2ac42abf410f017e1ac0"
 libc = "musl"
 os = "linux"
 
     [[Blosc2.download]]
-    sha256 = "c809c0bf985d830e3fd0668664706c8054e421cc79878eb8a8aaf7dac373063f"
-    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.0+0/Blosc2.v201.1700.0.aarch64-linux-musl.tar.gz"
+    sha256 = "6c5f45d9a560e31ecbba03e84a9fdfffd9eb23d0164d43dbc59e3ff5ad98bb98"
+    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.100+0/Blosc2.v201.1700.100.aarch64-linux-musl.tar.gz"
 [[Blosc2]]
 arch = "aarch64"
-git-tree-sha1 = "67746e69058c1c3a7141646366a44cad4a0cdfeb"
+git-tree-sha1 = "ccab2e589b0da2fe8df1e5d9bcbd6477c8f16f04"
 os = "freebsd"
 
     [[Blosc2.download]]
-    sha256 = "87d55dadf01c0d5c266201515de87a75e820992e08db5f39a80692b9934eb887"
-    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.0+0/Blosc2.v201.1700.0.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "6c83d95de61fe9a359db1de7a9e79c70f150e29104e91c5a42b09949dad2e748"
+    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.100+0/Blosc2.v201.1700.100.aarch64-unknown-freebsd.tar.gz"
 [[Blosc2]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "5d66d379fdadd5c8ddfd5dd6c59d03cb9d37488c"
+git-tree-sha1 = "23f878cc24985ac5cc0c64bc67c2c0e9c4843330"
 libc = "glibc"
 os = "linux"
 
     [[Blosc2.download]]
-    sha256 = "8008d26c299af9f01836447e14959d95b6204be9c74f4788755d33d568f567b6"
-    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.0+0/Blosc2.v201.1700.0.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "ce26250e2432450e1d1a30d448985e01acdadc85d30e00ba313f0546d1d8604d"
+    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.100+0/Blosc2.v201.1700.100.armv6l-linux-gnueabihf.tar.gz"
 [[Blosc2]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "1f5b7bf435c4449205710e938d343c836d3742dc"
+git-tree-sha1 = "9a7d7923ec067e4a744f56410a39fd8c6b5d7adf"
 libc = "musl"
 os = "linux"
 
     [[Blosc2.download]]
-    sha256 = "280d60a3817bbba844e2992c6232adaea42b7ce296b05a5366706aea6b7295ab"
-    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.0+0/Blosc2.v201.1700.0.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "6fb13d89b43d5a94a9dbbfd4f6b4364b44dbd6a7443e98a8b8707974b60e6bd3"
+    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.100+0/Blosc2.v201.1700.100.armv6l-linux-musleabihf.tar.gz"
 [[Blosc2]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "934478bb4dfa607d90fad6fe83bb1806ea96f113"
+git-tree-sha1 = "d212c408df876c0411ace40d8e2362a50a222142"
 libc = "glibc"
 os = "linux"
 
     [[Blosc2.download]]
-    sha256 = "27641d3c81235b890001ede319e87cf99ef3af3d91f91088ef57d9b58e9710ef"
-    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.0+0/Blosc2.v201.1700.0.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "ba47ffe3d10568912d688fa927ee861e289a9a83accb74ba3f8c37cb0ff586ed"
+    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.100+0/Blosc2.v201.1700.100.armv7l-linux-gnueabihf.tar.gz"
 [[Blosc2]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "639d78a87f9d5fc3b72b0a9ae0331f535803ac9e"
+git-tree-sha1 = "54cc63a2a506a508a432df63db4293b6ae1b2c99"
 libc = "musl"
 os = "linux"
 
     [[Blosc2.download]]
-    sha256 = "a03023db12849828580182d35de6ebe1e99d686bbcc9d71ef0181c96cc1ff687"
-    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.0+0/Blosc2.v201.1700.0.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "bb4f709c7267ee119787a4fb9a4959cd25f15315d5b81538551b72f0ae7b9322"
+    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.100+0/Blosc2.v201.1700.100.armv7l-linux-musleabihf.tar.gz"
 [[Blosc2]]
 arch = "i686"
-git-tree-sha1 = "baa602ff0b901c516753fb6ee8ac98bfa20bcd2e"
+git-tree-sha1 = "8e1aeff74e2bda7da204db3761c1bf0bddad9387"
 libc = "glibc"
 os = "linux"
 
     [[Blosc2.download]]
-    sha256 = "bbcf1310e3a778c707b811e3768be48c83cc38a772d174093341c322f784f6fd"
-    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.0+0/Blosc2.v201.1700.0.i686-linux-gnu.tar.gz"
+    sha256 = "634968a281473d5bf2efd67c171cf60be9b801201a5c6970326d8f92dab63407"
+    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.100+0/Blosc2.v201.1700.100.i686-linux-gnu.tar.gz"
 [[Blosc2]]
 arch = "i686"
-git-tree-sha1 = "9d886382e3f6fc9eda43099cd4ec01818d50e1d7"
+git-tree-sha1 = "988c7faea9f92a183fc125a125bc2fa7778fa69b"
 libc = "musl"
 os = "linux"
 
     [[Blosc2.download]]
-    sha256 = "331a27351d97c3d777dac3e08a96972e7f4d17a9de94636d688f07144d9f420e"
-    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.0+0/Blosc2.v201.1700.0.i686-linux-musl.tar.gz"
+    sha256 = "6bedf9f2f80d68e648c3422e1d90c87efaf634b6ecdee91b14c1baa1e8f133f5"
+    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.100+0/Blosc2.v201.1700.100.i686-linux-musl.tar.gz"
 [[Blosc2]]
 arch = "i686"
-git-tree-sha1 = "462a9c0a4a2856a03f7b3535939ff1549e21f9a6"
+git-tree-sha1 = "ccc7d7940a036d803505375e0ea237c0428ef198"
 os = "windows"
 
     [[Blosc2.download]]
-    sha256 = "95d6176c841e798362105b1b63da3ef186aab0abe7b76d32c2ad4c7974d3986b"
-    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.0+0/Blosc2.v201.1700.0.i686-w64-mingw32.tar.gz"
+    sha256 = "d619ae26f5ff2c92b05da8b66c8607a03db80a05c79e0d57b2989ba1f1fc46da"
+    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.100+0/Blosc2.v201.1700.100.i686-w64-mingw32.tar.gz"
 [[Blosc2]]
 arch = "powerpc64le"
-git-tree-sha1 = "47d2a28aca64482fd9fb83a60dc9cbd9e646bd80"
+git-tree-sha1 = "b0d5e886aac4402e3398a6d7d27e7bae905fcb9a"
 libc = "glibc"
 os = "linux"
 
     [[Blosc2.download]]
-    sha256 = "213e930a33559aaeda5fd51b03e53f57e4c7f818bc5cafc7c27405d901a19d4d"
-    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.0+0/Blosc2.v201.1700.0.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "542a318dac88def4bc10ccb234723799d8fa408823ad5d8b627c1ae2bace4963"
+    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.100+0/Blosc2.v201.1700.100.powerpc64le-linux-gnu.tar.gz"
 [[Blosc2]]
 arch = "riscv64"
-git-tree-sha1 = "cbe0afcb9c26b809cf2e15a571771c921c738080"
+git-tree-sha1 = "06905df7b5bc4972bb748fdca4ae525ad0336e0f"
 libc = "glibc"
 os = "linux"
 
     [[Blosc2.download]]
-    sha256 = "6a7c5c6759615846d3c5c98f4ea7278397d5b513e2557c635897560399db989d"
-    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.0+0/Blosc2.v201.1700.0.riscv64-linux-gnu.tar.gz"
+    sha256 = "0fe5ad77ce7d62004fa136352e8223d06bdb6985ba9beaef5e8dd8eb065f8faa"
+    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.100+0/Blosc2.v201.1700.100.riscv64-linux-gnu.tar.gz"
 [[Blosc2]]
 arch = "x86_64"
-git-tree-sha1 = "ae7d630bdded2423f0c55b818426eff02795df3a"
+git-tree-sha1 = "f334aa7225fb7e7a7f3bd28f08014fa003796c38"
 os = "macos"
 
     [[Blosc2.download]]
-    sha256 = "0955381a7b527655691e11d34528d585ec028c24553ba5d0b6ed72411c6ac00b"
-    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.0+0/Blosc2.v201.1700.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "94c61ccb227daa278a849cc627c4e4a24335c56f8115115333430840dcf4f3a3"
+    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.100+0/Blosc2.v201.1700.100.x86_64-apple-darwin.tar.gz"
 [[Blosc2]]
 arch = "x86_64"
-git-tree-sha1 = "0b46cb1194e78525105f8cf54fd34e8c6eb5a34a"
+git-tree-sha1 = "ff5feb6ecd7fe4633ce29d589e02e71cc9d0dda2"
 libc = "glibc"
 os = "linux"
 
     [[Blosc2.download]]
-    sha256 = "dce35ca0afb15cd1c9e4bbb5b1ccd5cf59bd2526ccc8af24276c250f74db718b"
-    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.0+0/Blosc2.v201.1700.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "bcf69f7bf7811fc55381474944f2a8465f93d38c0927fcac468fc1257e319008"
+    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.100+0/Blosc2.v201.1700.100.x86_64-linux-gnu.tar.gz"
 [[Blosc2]]
 arch = "x86_64"
-git-tree-sha1 = "4d11d7d5288b192ce16be34ff2888000eeb46746"
+git-tree-sha1 = "5e075eef292325bc61cb5c615bd423eae0311f99"
 libc = "musl"
 os = "linux"
 
     [[Blosc2.download]]
-    sha256 = "0263ffed640a1ec7c17df95aaea2ade7b942234d55bc3dc0eb402919731c73af"
-    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.0+0/Blosc2.v201.1700.0.x86_64-linux-musl.tar.gz"
+    sha256 = "39924051818df63bc4d2d043cc45ac1867bf001db8d5a7ac95914eb05d93e570"
+    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.100+0/Blosc2.v201.1700.100.x86_64-linux-musl.tar.gz"
 [[Blosc2]]
 arch = "x86_64"
-git-tree-sha1 = "feea0b7efc05c5a1b41001c30cb73f57e9345537"
+git-tree-sha1 = "cdf91fb569839114d48ca369f86772cc45c4c3f0"
 os = "freebsd"
 
     [[Blosc2.download]]
-    sha256 = "f99292bfa50e408ba8895c1839e03db234f5e025ccf673c8a9dd51d5e6beddcb"
-    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.0+0/Blosc2.v201.1700.0.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "d51caffe3aa6c5df3a4b46233ac88cfe24506256a3451aa81b34cfa0d0e69050"
+    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.100+0/Blosc2.v201.1700.100.x86_64-unknown-freebsd.tar.gz"
 [[Blosc2]]
 arch = "x86_64"
-git-tree-sha1 = "ff960b769fa8c5705f16f745f5b627940a5888f7"
+git-tree-sha1 = "165eb5eea7e4eb37dea0d258f8e817e6e699d78c"
 os = "windows"
 
     [[Blosc2.download]]
-    sha256 = "dde0c28ec2329340e04d1b336fd50e735cb493bcb1d0eac161821e030b4a865c"
-    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.0+0/Blosc2.v201.1700.0.x86_64-w64-mingw32.tar.gz"
+    sha256 = "19018d16d0531e67c85bfb0931489e3b1f27048a77306144f34bffee6fa27faa"
+    url = "https://github.com/JuliaBinaryWrappers/Blosc2_jll.jl/releases/download/Blosc2-v201.1700.100+0/Blosc2.v201.1700.100.x86_64-w64-mingw32.tar.gz"
