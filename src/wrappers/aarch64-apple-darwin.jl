@@ -5,12 +5,12 @@ using Lz4_jll
 using ZlibNG_jll
 using Zstd_jll
 JLLWrappers.@generate_wrapper_header("Blosc2")
-JLLWrappers.@declare_library_product(libblosc2, "@rpath/libblosc2.8.dylib")
+JLLWrappers.@declare_library_product(libblosc2, "@rpath/libblosc2.9.dylib")
 function __init__()
     JLLWrappers.@generate_init_header(Lz4_jll, ZlibNG_jll, Zstd_jll)
     JLLWrappers.@init_library_product(
         libblosc2,
-        "lib/libblosc2.3.1.5.dylib",
+        "lib/libblosc2.3.2.3.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
